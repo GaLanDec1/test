@@ -1,4 +1,7 @@
+HEAD
 New feature
 Change 1
 Change 2
 Change 3
+This is another file
+cd0b0d9 (Initial commit)
